@@ -1,6 +1,6 @@
 # Modern UI/UX GPT-3
 
-Modern site created using Figma Design
+Fully responsive modern site created in ReactJs library using Figma Design & CSS.
 
 # Some screenshots of GPT-3 website.
 
